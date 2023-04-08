@@ -1,0 +1,8 @@
+[{c:"#5d6060",t:"#212224",f:4},"&there4;","&there4;","&there4;",{x:0.5,c:"#3c4041",t:"#e4dedd",a:6,f:3},"Delete",{a:7,f:5},"&divide;","&times;",{a:6,f:3},"Back"],
+[{x:3.5,a:4,f:4},"7","8","9",{a:7,h:2},"+"],
+[{y:-0.5,a:4},"&there4;","&there4;","&there4;"],
+[{y:-0.5,x:3.5},"4","5","6"],
+[{y:-0.5},"&there4;","&there4;","&there4;"],
+[{y:-0.5,x:3.5},"1","2","3",{a:7,f:9,h:2},"&crarr;"],
+[{a:4,f:4},"&there4;","&there4;","&there4;",{x:0.5,w:2},"0",{c:"#5d6060",t:"#212224"},"<i class='fa fa-chevron-up'></i>"],
+[{c:"#3c4041",t:"#e4dedd"},"&there4;","&there4;","&there4;",{x:0.5,c:"#212224",a:6,f:3},"Fn",{c:"#5d6060",t:"#212224",a:4,f:4},"<i class='fa fa-chevron-left'></i>","<i class='fa fa-chevron-down'></i>","<i class='fa fa-chevron-right'></i>"]
